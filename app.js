@@ -1,5 +1,5 @@
 function onReady() {
-  
+
   const ADD_TODO_FORM = document.getElementById('addToDoForm');
   const NEW_TODO_TEXT = document.getElementById('newToDoText');
   const TODO_LIST = document.getElementById('toDoList');

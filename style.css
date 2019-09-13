@@ -1,0 +1,28 @@
+body {
+  background-color: #f0fffe;
+  text-align: center;
+}
+
+button.mdl-button {
+  background-color: rgb(121, 208, 200);
+  color: black;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+}
+
+input[type=text] {
+  padding: 5px 20px;
+  margin: 5px;
+
+}
+
+label[for=newToDoText] {
+  font-size: 1.2rem;
+}
